@@ -18,4 +18,4 @@
 
 - 公众账号：
 
-![](../wechat-public.png)
+![](https://qiniucloud.qqdeveloper.com//14b93c38d17735c5927405280867f7fe.png)
