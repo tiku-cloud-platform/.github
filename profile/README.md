@@ -32,7 +32,11 @@
 
 ## 官网地址
 
-[官网地址](https://www.tiku-cloud.com/)
+- [官网地址1](https://www.tiku-cloud.com/)
+
+- [官网地址2](https://www.qqdeveloper.com/)
+
+- [更新动态地址](https://www.tiku-cloud.com/)
 
 ## 接口平台
 
