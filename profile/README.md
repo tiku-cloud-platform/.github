@@ -1,6 +1,6 @@
 ## 组织说明
 
-[tiku-cloud-platform](https://github.com/tiku-cloud-platform)由云题库SaaS平台官方组织维护。关于平台介绍、平台功能使用、平台使用对接、平台API接口等相关信息，请移步[使用说明文档](https://github.com/tiku-cloud-platform/.github)
+[tiku-cloud-platform](https://github.com/tiku-cloud-platform)由云题库SaaS平台官方组织维护。关于平台介绍、平台功能使用、平台使用对接、平台API接口等相关信息，请移步[使用说明文档](https://github.com/tiku-cloud-platform/.github)。
 
 ## 平台介绍
 
